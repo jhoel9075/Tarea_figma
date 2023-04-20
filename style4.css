@@ -1,0 +1,70 @@
+header > div {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    height: 799px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between   ;
+    
+}
+
+header > div > h3 {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    
+    
+}
+
+header > div button {
+    width: 200px;
+    font-size: 30px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
+}
+#menu {
+    background-color: #808080;
+}
+
+#cart {
+    background-color: #808080;
+}
+
+
+
+
+
+fieldset {
+    border: 0px;
+    height: 50px;;
+    display: flex;
+    justify-content: space-between;
+    font-style:unset;
+    
+    
+    
+
+    font-style: normal;
+    
+}
+
+input {
+    width: 60%;
+
+}
+
+
+
+
+p {
+    font-style: italic;
+    font-size: 25px;
+    
+}

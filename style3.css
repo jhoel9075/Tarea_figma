@@ -1,0 +1,58 @@
+header > div {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    height: 799px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between   ;
+    
+}
+
+header > div > h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+header > div button {
+    width: 79px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
+}
+#back {
+    background-color: #808080;
+}
+
+
+
+
+
+
+fieldset {
+    border: 0px;
+    height: 50px;;
+    background-color: #808080;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+    font-style: normal;
+    
+}
+
+
+
+
+
+p {
+    font-style: normal;
+    
+}
